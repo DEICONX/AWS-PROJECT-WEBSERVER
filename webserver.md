@@ -40,21 +40,21 @@ Before starting, ensure you have:
 
 6. Launch the instance
 
-   ![](C:\Users\jagan\Downloads\web\Screenshot 2026-02-04 121703.png)
+   ![](Screenshot%202026-02-04%20121703.png)
 
    -----
 
-   ![](C:\Users\jagan\Downloads\web\Screenshot 2026-02-04 121715.png)
+   ![](Screenshot%202026-02-04%20121715.png)
 
    ------
 
-   ![](C:\Users\jagan\Downloads\web\Screenshot 2026-02-04 121730.png)
+   ![](Screenshot%202026-02-04%20121730.png)
 
    ---------------------------
 
    📸 Screenshot of EC2 instance in **Running** state
 
-![](C:\Users\jagan\Downloads\web\Screenshot 2026-02-04 121811.png)
+![](Screenshot%202026-02-04%20121811.png)
 
 ------
 
@@ -69,7 +69,7 @@ Before starting, ensure you have:
 
 📸 Screenshot of *inbound security group rules*
 
-![](C:\Users\jagan\Downloads\web\Screenshot 2026-02-04 123054.png)
+![](Screenshot%202026-02-04%20123054.png)
 
 ------
 
@@ -86,7 +86,7 @@ Before starting, ensure you have:
 
 📸 Screenshot of successful SSH login
 
-![](C:\Users\jagan\Downloads\web\Screenshot 2026-02-04 121908.png)
+![](Screenshot%202026-02-04%20121908.png)
 
 ------
 
@@ -106,7 +106,7 @@ sudo systemctl status apache2
 
 📸 Screenshot showing Apache2 **active (running)** status
 
-![](C:\Users\jagan\Downloads\web\Screenshot 2026-02-04 122049.png)
+![](Screenshot%202026-02-04%20122049.png)
 
 ------
 
@@ -118,7 +118,7 @@ sudo systemctl status apache2
 
 📸 Screenshot of the **Apache2 default webpage**
 
-![](C:\Users\jagan\Downloads\web\Screenshot 2026-02-04 122210.png)
+![](Screenshot%202026-02-04%20122210.png)
 
 ------
 
@@ -130,7 +130,7 @@ Navigate to Apache web root:
 
 cd /var/www/html
 
-![](C:\Users\jagan\Downloads\web\Screenshot 2026-02-04 122304.png)
+![](Screenshot%202026-02-04%20122304.png)
 
 -------------
 
@@ -162,13 +162,13 @@ HTML
 
 </html>
 
-![](C:\Users\jagan\Downloads\web\Screenshot 2026-02-04 122352.png)
+![](Screenshot%202026-02-04%20122352.png)
 
 Save the file and refresh the browser.
 
 📸 Screenshot of your **custom web application page**
 
-![](C:\Users\jagan\Downloads\web\Screenshot 2026-02-04 122408.png)
+![](Screenshot%202026-02-04%20122408.png)
 
 ------------
 
